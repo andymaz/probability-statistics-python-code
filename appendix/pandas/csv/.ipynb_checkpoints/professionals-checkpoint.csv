@@ -1,0 +1,6 @@
+# --- CSV example (contents of professionals.csv) ---
+name,age,occupation
+alex,28,teacher
+sue,29,programmer
+max,20,student
+
